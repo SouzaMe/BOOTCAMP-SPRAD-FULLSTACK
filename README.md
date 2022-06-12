@@ -2,7 +2,9 @@
 
 ## Bootcamps
  
-- [Spread Fullstack Developer](https://web.dio.me/track/a59745f2-eff7-481f-b13b-1277132853df) [98horas]
+- [Spread Fullstack Developer](https://web.dio.me/track/a59745f2-eff7-481f-b13b-1277132853df) [98horas]<br>
+ ![Logo Bootcamp Dio Spread Fullstack Developer](https://i.ibb.co/vQpD9kg/logo-dio-bootcamp-spread-fullstack-developer.png)  
+
 ##
 
 Aqui ficam todos os mini projetos feito durante o bootcamp da Spread Fullstack pela Digital Innovation One.
